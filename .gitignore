@@ -1,0 +1,8 @@
+.env
+airflow_data/logs/*
+airflow_data/config/
+airflow_data/plugins/*
+airflow_data/dags/__pycache__/*
+airflow_data/dags/.ipynb_checkpoints/*
+.vscode/*
+scratch/*
