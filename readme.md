@@ -73,7 +73,7 @@ prequiresite: WSL/Linux
 #### Report based on Weather Conditions
 ![Report Weather](screenshot/report_weather.png)
 
-# database schema 
+# Logical Schema Model 
 
 
 ```mermaid
